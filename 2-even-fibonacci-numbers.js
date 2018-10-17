@@ -21,6 +21,4 @@ const n = 4000000;
           }
       }
 
-console.log(fibonacciNums);
-console.log(fibonacciEvenNums);
 console.log(fibonacciEvenNums.reduce(reducer));
