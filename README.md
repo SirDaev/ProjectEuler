@@ -1,2 +1,2 @@
 # ProjectEuler
-My answers to the Project Euler problems
+My answers to the Project Euler problems using JavaScript
